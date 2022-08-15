@@ -1,2 +1,2 @@
 # FSR.js
-next generation file system rendering
+what if even that was a file
